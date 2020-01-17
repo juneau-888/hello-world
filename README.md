@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Howdy,
+
+My name is Matt and I am getting into coding. Exciting right? 
